@@ -1,0 +1,14 @@
+*.class
+*.log
+.vscode
+.metals
+books/*.txt
+target
+project
+.bloop
+.bsp
+result*/*.csv
+result*/*.crc
+node_modules
+package-lock.json
+
